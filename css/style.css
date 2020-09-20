@@ -1,0 +1,66 @@
+
+* {
+    box-sizing: border-box;
+ }
+ body {
+    font-family: 'Arial', sans-serif;
+    line-height: 22px;
+    text-align: justify;
+ }
+ .wrapper {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1024px;
+ }
+ .container {
+    width: 600px;
+    padding: 20px;
+ }
+
+
+.contact-header {
+   color: rgb(12, 11, 11);
+}
+ aside {
+    width: 300px;
+    padding: 0 50px;
+    background-color: #79f2f7cd;
+    color: rgb(12, 11, 11);
+    border: 2px solid #111111;
+ }
+ .image-box {
+    width: 175px;
+  
+    margin-top: 25px;
+    margin-right: 50px;
+
+
+ aside ul {
+    padding: 10px;
+    margin: 0;
+ }
+ aside ul li a {
+    color: rgb(12, 11, 11);
+ }
+ 
+ p {
+    text-indent: initial;
+    text-align: justify;
+ }
+ 
+ a {
+    text-decoration: none;
+ 
+ }
+ 
+ footer {
+    margin: 50px 0;
+ }
+ 
+ .header {
+    display: flex;
+ }
+ 
+ .experience {
+     text-align:justify ;
+ }
