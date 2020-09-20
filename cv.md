@@ -4,7 +4,7 @@
 ### - Contact:
 
 :e-mail: snegovata@gmail.com
-:tm: t.me/r0man_x
+:tm: t.me/r0man_x 
 
 ### - Summary:
 All my life, I've been interested in technologies that make life easier and bring people together. I've always wanted to know how the world works around me, why everything is the way it is. I discovered programming quite late, but now the route is chosen and I intend to go all the way. My 5 years goal - to become a full stack web developer. Also I want to try myself on Big Data projects.
@@ -68,7 +68,6 @@ All my life, I've been interested in technologies that make life easier and brin
 * Collection and analysis of the target audience for a specific product (service).
 * Conducting advertising campaigns(VK, Facebook, Instagram)
 * Providing a result analysis report.
-
 
 ### - Hobbies:
 Running, Cycling, Investing, Psychology.
